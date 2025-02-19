@@ -1,0 +1,26 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, 'Times New Roman';
+}
+
+.jumbotron {
+    background-image: url('../images/background.jpg');
+    background-size: contain;
+    background-attachment: fixed;
+    height: 700px;
+    margin-top: -60px;
+}
+
+.jumbotron .container {
+    margin-top: 40px;
+    color: rgb(212, 240, 58);
+}
+
+.co {
+    color: rgb(221, 255, 0);
+    padding-top: 300px;
+    text-shadow: 0 5px 10px rgb(5, 5, 5);
+}
+
+.display-4 {
+    text-shadow: 0 5px 10px rgb(0, 0, 0);
+}
